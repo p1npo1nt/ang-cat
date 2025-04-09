@@ -1,0 +1,2 @@
+/video/ contains video for the project
+/digitized/ contains the DLTdv digitization outputs in either .csv or .mat
